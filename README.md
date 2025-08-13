@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains the final project for the **Advanced Statistics for Analytics** course, completed by **Ricardo Martinez** in August 2025. The project simulates a real-world manufacturing scenario and is structured in three stages:
+This project, written in R, applies statistical techniques to simulate a real-world quality control scenario. I used two-way ANOVA to analyze process factors affecting yield, a Chi-square test to examine defect patterns by shift, and time series analysis to forecast future production. The goal was to improve decision-making through data analysis and demonstrate a structured approach to quality assurance using statistical methods.
+
+##Different Stages of the project
 
 1. **Stage 1 – Process Optimization (Two-Way ANOVA)**  
    Analyzes the effects of catalyst type and temperature on polymer yield.
