@@ -4,7 +4,7 @@ library(Hmisc)
 polymer_data<-read.csv(choose.files())
 
 
-# Two-Way ANOVA
+# Two-Way ANOVA -just adding a change
 yield_anova<-aov(Yield_pct~Catalyst*Temperature,data=polymer_data)
 summary(yield_anova)
 
